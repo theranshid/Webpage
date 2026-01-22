@@ -68,3 +68,12 @@ img.birthday {
     height: auto;
     transform: translate(-50%, -50%);
 }
+
+img.dup {
+    display: block;
+    position: fixed;
+    left: 0;
+    top: 50%;
+    width: 50px;
+    height: auto;
+}
