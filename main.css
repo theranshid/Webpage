@@ -1,0 +1,39 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    background-color: #333;
+    color: #CCC;
+    margin: 0;
+    font-family: "Montserrat";
+}
+
+a {
+    color: #0DD;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-color: #222;
+}
+
+ul li a{
+    padding: 20px 20px; 
+    opacity: 0.7;
+    display: block;
+    transition: 0.3s;
+}
+
+ul li a:hover{
+    opacity: 1;
+    background-color: #000;
+}
+
+ul li a.active{
+    background-color: #000;
+}

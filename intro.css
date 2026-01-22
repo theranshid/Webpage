@@ -1,0 +1,65 @@
+body {
+    background-color: #FEE0E0;
+}
+
+img.intro {
+    position: fixed;
+    left: 50%;
+    bottom: -100%;
+    transform: translateX(-50%);
+    width: 500px;
+    height: auto;
+    display: block;
+    animation: rise 2s ease-in-out forwards;
+}
+
+@keyframes rise {
+    to {
+        bottom: 50%;
+        transform: translate(-50%, 50%);
+    }
+}
+
+img.polaroid {
+    display: block;
+    position: fixed;
+    width: 300px;
+    height: auto;
+    opacity: 1;
+} 
+
+polaroid.first {
+    display: block;
+    left:75%;
+    top: 10%;
+    width: 300px;
+    height: auto;
+    transform: rotate(-35deg);
+}
+
+polaroid.d {
+    position: relative;
+    transform: rotate(10deg);
+}
+img.polaroid.a{
+    left: 75%;
+    top: 10%;
+    transform: rotate(-35deg);
+}
+
+img.polaroid.b{
+    left: 15%;
+    top: 70%;
+    transform: rotate(-50deg);
+}
+
+img.polaroid.c{
+    top: 8%;
+    left: 18%;
+    transform: rotate(25deg);
+}
+
+
+
+
+
