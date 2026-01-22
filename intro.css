@@ -51,7 +51,7 @@ img.polaroid.c{
 img.polgroup {
     display: block;
     position: fixed;
-    width: 500px;
+    width: 700px;
     height: auto;
     left: 50%;
     top: 50%;
@@ -78,8 +78,8 @@ img.happy {
     display: block;
     position: fixed;
     left: 50%;
-    top: 30%;
-    width: 50px;
+    top: 25%;
+    width: 220px;
     height: auto;
     transform: translate(-50%, -50%);
 }
@@ -89,8 +89,8 @@ img.birthday {
     display: block;
     position: fixed;
     left: 50%;
-    top: 70%;
-    width: 75px;
+    top: 75%;
+    width: 300px;
     height: auto;
     transform: translate(-50%, -50%);
 }
