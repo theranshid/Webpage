@@ -80,7 +80,7 @@ img.birthday {
     position: fixed;
     left: 50%;
     top: 70%;
-    width: 20px;
+    width: 30px;
     height: auto;
     transform: translate(-50%, -50%);
 }
