@@ -37,16 +37,28 @@ img.top {
     position: fixed;
     top: 0;
     width: 100%;
+    height: 21%;
+}
+
+.container {
+    position: fixed;
+    display: flex;
+    width: 100%;
     height: 200px;
+    bottom: 0;
+    left: 0;
+    align-items: center;
+    justify-content: center;
 }
 
 img.bottom {
-    display: block;
     position: fixed;
     bottom: 0;
     width: 100%;
-    height: 200px;
+    height: 21%;
+    object-fit: fill;
 }
+
 
 img.happy {
     display: block;
@@ -76,4 +88,15 @@ img.dup {
     top: 48%;
     width: 50px;
     height: auto;
+}
+
+.butt {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #333;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+    position: fixed;
+    z-index: 999;
 }

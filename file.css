@@ -1,0 +1,10 @@
+body {
+    background-color: #EEEEEE;
+}
+
+.container {
+    position: fixed;
+    left: 30%;
+    display: flex;
+    flex-direction: row;
+}
