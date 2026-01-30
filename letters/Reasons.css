@@ -1,0 +1,13 @@
+body {
+    background-color: #FDFBCF;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Source serif 4';
+    font-size: 50px;
+}
+
+.number {
+    font-size: 90px;
+}
