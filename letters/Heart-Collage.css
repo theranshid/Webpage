@@ -4,9 +4,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #AD0000;
 }
 img {
-    width: 50%;
+    width: 80%;
     height: auto;
     display: block;
     margin: 0 auto;
