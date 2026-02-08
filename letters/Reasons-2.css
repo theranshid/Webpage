@@ -33,6 +33,7 @@ p {
     margin: 0;
     font-size: 30px;
     font-style: italic;
+    font-weight: 300;
 }
 
 .number {
@@ -85,7 +86,7 @@ button {
     position: fixed;
     bottom: 0;
     right: 0;
-    width: 50px;
+    width: 200px;
     height: fit-content;
 }
 
