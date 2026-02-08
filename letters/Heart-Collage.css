@@ -9,7 +9,7 @@ body {
     background-color: #8D0000;
 }
 img {
-    width: 110%;
+    width: 150%;
     height: auto;
     display: block;
     margin: 0 auto;
@@ -18,7 +18,7 @@ img {
 h1 {
     display: block;
     font-family: 'Great Vibes', cursive !important;
-    font-size: 72px;
+    font-size: 62px;
     color: #EEEEEE;
 }
 
