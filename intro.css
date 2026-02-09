@@ -95,7 +95,7 @@ button {
     font-family: 'Source serif 4';
     font-weight: 400;
     font-style: italic;
-    font-size: 102px;
+    font-size: 51px;
     color: #FFFFFF;
     box-shadow: none;
     border: none;
@@ -104,6 +104,6 @@ button {
     position: fixed;
     bottom: 0;
     right: 0;
-    width: 150px;
+    width: 75px;
     height: fit-content;
 }
